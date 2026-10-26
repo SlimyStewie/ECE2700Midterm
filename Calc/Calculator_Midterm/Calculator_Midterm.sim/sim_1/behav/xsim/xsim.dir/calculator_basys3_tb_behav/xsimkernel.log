@@ -1,0 +1,4 @@
+Running: xsim.dir/calculator_basys3_tb_behav/xsimk -simmode gui -wdb calculator_basys3_tb_behav.wdb -simrunnum 0 -socket 39825
+Design successfully loaded
+Design Loading Memory Usage: 392916 KB (Peak: 393036 KB)
+Design Loading CPU Usage: 1060 ms
