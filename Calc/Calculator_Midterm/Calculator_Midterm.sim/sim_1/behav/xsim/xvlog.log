@@ -1,5 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "/home/a02488494/Documents/Calc/calculator_basys3.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module calculator_basys3
-INFO: [VRFC 10-311] analyzing module full_adder
-INFO: [VRFC 10-2263] Analyzing Verilog file "/home/a02488494/Documents/Calc/calculator_basys3_tb.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module calculator_basys3_tb
